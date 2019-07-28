@@ -1,0 +1,4 @@
+---
+mysql_root_pass: root
+db_pass_one: db1pass1001
+db_pass_two: db2pass1011
